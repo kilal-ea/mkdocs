@@ -1,0 +1,13 @@
+<!-- myapp/templates/home.html -->
+<!DOCTYPE html>
+<html>
+<head><title>Articles</title></head>
+<body>
+  <h1>Liste des Articles</h1>
+  {% for article in articles %}
+    <h2>{{ article.title }}</h2>
+    <p>{{ article.content }}</p>
+    <hr>
+  {% endfor %}
+</body>
+</html>
