@@ -1,4 +1,4 @@
-# Documentation de l'Architecture V1
+# Documentation de l'Architecture V2
 
 ## 1. Introduction
 

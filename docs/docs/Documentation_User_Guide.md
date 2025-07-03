@@ -1,4 +1,4 @@
-# User Guide Documentation V1
+# User Guide Documentation V2
 
 ## Page d'accueil
 

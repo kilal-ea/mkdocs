@@ -1,4 +1,4 @@
-# 📄 Documentation Fonctionnelle – Nom de l'Application V1
+# 📄 Documentation Fonctionnelle – Nom de l'Application V2
 
 ## 📌 1. Introduction
 Ce document décrit les fonctionnalités principales de l'application **[Nom de l'Application]** du point de vue de l'utilisateur final. Il vise à fournir une compréhension claire de ce que fait l'application et pourquoi elle a été développée.
