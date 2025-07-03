@@ -2,12 +2,12 @@ site_name: My Docs
 
 nav:
   - dev guide:
-      - back office: dev_guide/back_office.md
-      - front office: dev_guide/front_office.md
-      - models: dev_guide/models.md
-  - Documentation Fonctionnelle: Documentation_Fonctionnelle.md
-  - Documentation de l'Architecture: Documentation_l'Architecture.md
-  - User Guide: Documentation_User_Guide.md
+      - back office: docs/dev_guide/back_office.md
+      - front office: docs/dev_guide/front_office.md
+      - models: docs/dev_guide/models.md
+  - Documentation Fonctionnelle: docs/Documentation_Fonctionnelle.md
+  - Documentation de l'Architecture: docs/Documentation_l'Architecture.md
+  - User Guide: docs/Documentation_User_Guide.md
 
 theme:
   name: material
